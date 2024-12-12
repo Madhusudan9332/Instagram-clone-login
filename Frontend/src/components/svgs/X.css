@@ -1,0 +1,7 @@
+svg {
+    transition: transform 1s ease-in-out;
+  }
+  
+  svg.transformed {
+    transform: scale(1.2) rotate(90deg) skewX(20deg); /* Example transformation to "T" */
+  }
